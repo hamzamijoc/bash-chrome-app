@@ -1,0 +1,29 @@
+#!/bin/bash
+
+## -------------------------------
+## autor:			hun73r
+## date:			18/02/2018
+## licence:		for-education-only
+## desc:			open-chrome-app-mode
+## URL:				https://example.com
+## -------------------------------
+
+## set _url to URL address[copy/paste]
+_url='https://example.com'
+
+## argument for app in google-chrome
+_args='--app='
+
+## set chrome path
+_chrome='/usr/bin/google-chrome-stable'
+
+## function for open google-chrome app mode
+function openChromeUrl()
+{
+	$_chrome $_args$_url
+}
+
+## call function
+openChromeUrl
+
+exit
