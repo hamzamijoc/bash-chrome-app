@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ## -------------------------------
-## autor:			hun73r
-## date:			18/02/2018
-## licence:		for-education-only
-## desc:			open-chrome-app-mode
-## URL:				https://example.com
+## autor:	hun73r
+## date:	18/02/2018
+## licence:	for-education-only
+## desc:	open-chrome-app-mode
+## URL:		https://example.com
 ## -------------------------------
 
 ## set _url to URL address[copy/paste]
